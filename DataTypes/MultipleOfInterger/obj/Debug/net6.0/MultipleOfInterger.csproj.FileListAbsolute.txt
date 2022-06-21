@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\bin\Debug\net6.0\MultipleOfInterger.exe
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\bin\Debug\net6.0\MultipleOfInterger.deps.json
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\bin\Debug\net6.0\MultipleOfInterger.runtimeconfig.json
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\bin\Debug\net6.0\MultipleOfInterger.dll
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\bin\Debug\net6.0\MultipleOfInterger.pdb
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\MultipleOfInterger.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\MultipleOfInterger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\MultipleOfInterger.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\MultipleOfInterger.AssemblyInfo.cs
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\MultipleOfInterger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\MultipleOfInterger.dll
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\refint\MultipleOfInterger.dll
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\MultipleOfInterger.pdb
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\MultipleOfInterger.genruntimeconfig.cache
+C:\Users\Admin\Documents\C-sharp\DataTypes\MultipleOfInterger\obj\Debug\net6.0\ref\MultipleOfInterger.dll

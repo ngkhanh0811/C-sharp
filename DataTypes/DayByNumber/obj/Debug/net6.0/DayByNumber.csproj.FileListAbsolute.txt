@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\DayByNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\DayByNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\DayByNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\DayByNumber.AssemblyInfo.cs
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\DayByNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\bin\Debug\net6.0\DayByNumber.exe
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\bin\Debug\net6.0\DayByNumber.deps.json
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\bin\Debug\net6.0\DayByNumber.runtimeconfig.json
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\bin\Debug\net6.0\DayByNumber.dll
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\bin\Debug\net6.0\DayByNumber.pdb
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\DayByNumber.dll
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\refint\DayByNumber.dll
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\DayByNumber.pdb
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\DayByNumber.genruntimeconfig.cache
+C:\Users\Admin\Documents\C-sharp\DataTypes\DayByNumber\obj\Debug\net6.0\ref\DayByNumber.dll

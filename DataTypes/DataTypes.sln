@@ -3,21 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{4851A19A-83DC-48D4-AFD0-04E9E4C9D3A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\DataTypes.csproj", "{4851A19A-83DC-48D4-AFD0-04E9E4C9D3A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType", "DataType\DataType.csproj", "{35DBE428-07AC-48C1-868E-6A8649E8A322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataType", "DataType\DataType.csproj", "{35DBE428-07AC-48C1-868E-6A8649E8A322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType", "ValueType\ValueType.csproj", "{E48B64CA-ED2D-4244-B956-79BAAF757AC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType", "ValueType\ValueType.csproj", "{E48B64CA-ED2D-4244-B956-79BAAF757AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceType", "ReferenceType\ReferenceType.csproj", "{2530FF21-1212-4BF2-9C5A-1257A4A79826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceType", "ReferenceType\ReferenceType.csproj", "{2530FF21-1212-4BF2-9C5A-1257A4A79826}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberFormat", "NumberFormat\NumberFormat.csproj", "{8A02C934-3B65-4CC4-8807-D3798DA54658}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberFormat", "NumberFormat\NumberFormat.csproj", "{8A02C934-3B65-4CC4-8807-D3798DA54658}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeFormat", "DateTimeFormat\DateTimeFormat.csproj", "{A4B04838-315D-478C-B05E-AAA57A6F9D83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeFormat", "DateTimeFormat\DateTimeFormat.csproj", "{A4B04838-315D-478C-B05E-AAA57A6F9D83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitlyTypedLocal", "ImplicitlyTypedLocal\ImplicitlyTypedLocal.csproj", "{80C85DAF-7759-4F4D-A4F0-4EBB1A16DE05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitlyTypedLocal", "ImplicitlyTypedLocal\ImplicitlyTypedLocal.csproj", "{80C85DAF-7759-4F4D-A4F0-4EBB1A16DE05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonTypes", "AnonTypes\AnonTypes.csproj", "{EE4CDC33-1755-4CAC-9EC8-AF4A4BA037E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonTypes", "AnonTypes\AnonTypes.csproj", "{EE4CDC33-1755-4CAC-9EC8-AF4A4BA037E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Information", "Information\Information.csproj", "{A4B299CC-964D-44A9-9BBD-A469568FA136}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortNumber", "SortNumber\SortNumber.csproj", "{08459D01-B966-4C81-BCAB-B8E207E1279C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayByNumber", "DayByNumber\DayByNumber.csproj", "{712B907A-3291-42F0-9533-6E4BE66EB68E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleOfInterger", "MultipleOfInterger\MultipleOfInterger.csproj", "{1A93CA2D-4465-46BF-A0E1-968B86264D90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{EE4CDC33-1755-4CAC-9EC8-AF4A4BA037E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE4CDC33-1755-4CAC-9EC8-AF4A4BA037E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE4CDC33-1755-4CAC-9EC8-AF4A4BA037E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B299CC-964D-44A9-9BBD-A469568FA136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B299CC-964D-44A9-9BBD-A469568FA136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B299CC-964D-44A9-9BBD-A469568FA136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B299CC-964D-44A9-9BBD-A469568FA136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08459D01-B966-4C81-BCAB-B8E207E1279C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08459D01-B966-4C81-BCAB-B8E207E1279C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08459D01-B966-4C81-BCAB-B8E207E1279C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08459D01-B966-4C81-BCAB-B8E207E1279C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712B907A-3291-42F0-9533-6E4BE66EB68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712B907A-3291-42F0-9533-6E4BE66EB68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712B907A-3291-42F0-9533-6E4BE66EB68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712B907A-3291-42F0-9533-6E4BE66EB68E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A93CA2D-4465-46BF-A0E1-968B86264D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A93CA2D-4465-46BF-A0E1-968B86264D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A93CA2D-4465-46BF-A0E1-968B86264D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A93CA2D-4465-46BF-A0E1-968B86264D90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
