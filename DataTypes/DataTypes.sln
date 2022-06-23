@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayByNumber", "DayByNumber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleOfInterger", "MultipleOfInterger\MultipleOfInterger.csproj", "{1A93CA2D-4465-46BF-A0E1-968B86264D90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5", "Ex5\Ex5.csproj", "{70436197-D60C-48EB-838E-EE7352C958FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1A93CA2D-4465-46BF-A0E1-968B86264D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A93CA2D-4465-46BF-A0E1-968B86264D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A93CA2D-4465-46BF-A0E1-968B86264D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70436197-D60C-48EB-838E-EE7352C958FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70436197-D60C-48EB-838E-EE7352C958FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70436197-D60C-48EB-838E-EE7352C958FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70436197-D60C-48EB-838E-EE7352C958FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
