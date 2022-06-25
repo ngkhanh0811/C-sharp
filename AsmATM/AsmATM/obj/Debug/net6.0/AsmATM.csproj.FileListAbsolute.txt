@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\bin\Debug\net6.0\AsmATM.exe
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\bin\Debug\net6.0\AsmATM.deps.json
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\bin\Debug\net6.0\AsmATM.runtimeconfig.json
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\bin\Debug\net6.0\AsmATM.dll
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\bin\Debug\net6.0\AsmATM.pdb
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\AsmATM.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\AsmATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\AsmATM.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\AsmATM.AssemblyInfo.cs
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\AsmATM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\AsmATM.dll
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\refint\AsmATM.dll
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\AsmATM.pdb
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\AsmATM.genruntimeconfig.cache
+C:\Users\Admin\Documents\C-sharp\AsmATM\AsmATM\obj\Debug\net6.0\ref\AsmATM.dll
