@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\bin\Debug\net6.0\Cs09.exe
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\bin\Debug\net6.0\Cs09.deps.json
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\bin\Debug\net6.0\Cs09.runtimeconfig.json
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\bin\Debug\net6.0\Cs09.dll
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\bin\Debug\net6.0\Cs09.pdb
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\Cs09.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\Cs09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\Cs09.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\Cs09.AssemblyInfo.cs
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\Cs09.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\Cs09.dll
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\refint\Cs09.dll
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\Cs09.pdb
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\Cs09.genruntimeconfig.cache
+C:\Users\Admin\Documents\C-sharp\Session11\Cs09\obj\Debug\net6.0\ref\Cs09.dll

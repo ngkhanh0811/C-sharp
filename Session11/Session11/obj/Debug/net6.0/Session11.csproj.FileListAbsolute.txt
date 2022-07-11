@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\bin\Debug\net6.0\Session11.exe
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\bin\Debug\net6.0\Session11.deps.json
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\bin\Debug\net6.0\Session11.runtimeconfig.json
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\bin\Debug\net6.0\Session11.dll
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\bin\Debug\net6.0\Session11.pdb
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\Session11.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\Session11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\Session11.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\Session11.AssemblyInfo.cs
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\Session11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\Session11.dll
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\refint\Session11.dll
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\Session11.pdb
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\Session11.genruntimeconfig.cache
+C:\Users\Admin\Documents\C-sharp\Session11\Session11\obj\Debug\net6.0\ref\Session11.dll
