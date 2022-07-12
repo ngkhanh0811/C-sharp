@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\bin\Debug\net6.0\AnimalInterface.exe
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\bin\Debug\net6.0\AnimalInterface.deps.json
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\bin\Debug\net6.0\AnimalInterface.runtimeconfig.json
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\bin\Debug\net6.0\AnimalInterface.dll
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\bin\Debug\net6.0\AnimalInterface.pdb
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\AnimalInterface.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\AnimalInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\AnimalInterface.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\AnimalInterface.AssemblyInfo.cs
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\AnimalInterface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\AnimalInterface.dll
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\refint\AnimalInterface.dll
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\AnimalInterface.pdb
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\AnimalInterface.genruntimeconfig.cache
+C:\Users\Admin\Documents\C-sharp\AnimalInterface\AnimalInterface\obj\Debug\net6.0\ref\AnimalInterface.dll
